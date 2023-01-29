@@ -1,2 +1,3 @@
 # PrepCourse-Henry
-Este es un prueba m2
+Gerald Mickelsen
+Este proyecto es una prueba de como clonar esto
